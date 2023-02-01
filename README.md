@@ -1,7 +1,7 @@
 # Masters of Arts: ML Challenge N place solution
 
 ## Solution Architecture
-![image info](./imgs/dio.png)
+![image info](dio.png)
 
 ---
 ## Blending
