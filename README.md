@@ -9,6 +9,9 @@
  - Adam
  - MADGRAD
  - QHAdam
+### Losses
+ - CrossEntropyLoss
+ - FocalLoss with class weights
 ### Schedulers
  - One Cycle Scheduler 
 ### Tricks
@@ -18,6 +21,8 @@
 ## Final Model
 ### Optimizers
  - QHAdam
+### Losses
+ - CrossEntropyLoss
 ### Schedulers
  - One Cycle Scheduler 
 ### Tricks
