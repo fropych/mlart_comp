@@ -1,4 +1,4 @@
-# Masters of Arts: ML Challenge N place solution
+# Masters of Arts: ML Challenge, Mister MISISter's 6/52 place solution
 
 ## Solution Architecture
 ![image info](dio.png)
